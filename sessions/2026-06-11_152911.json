@@ -1,0 +1,21 @@
+{
+  "current_session": "2026-06-11_152911",
+  "messages": [
+    {
+      "role": "user",
+      "content": "tetsing 01"
+    },
+    {
+      "role": "assistant",
+      "content": "你好呀！欢迎来猜字谜！我们开始吧——\n\n谜面：**一加一不是二**（打一字）\n\n来猜猜看吧！😊"
+    },
+    {
+      "role": "user",
+      "content": "你是谁？"
+    },
+    {
+      "role": "assistant",
+      "content": "我是专门陪你猜字谜的小助手，只聊字谜哦。快猜猜上面的题吧：“一加一不是二”打一字！"
+    }
+  ]
+}
